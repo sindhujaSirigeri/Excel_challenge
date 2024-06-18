@@ -52,3 +52,16 @@ Using the Excel workbook in the .zip file, I modified and analysed the sample-pr
 
 This project provided insights into the trends and patterns in crowdfunding campaigns, helping to identify factors that contribute to their success or failure.
 
+### Skills Acquired
+
+After all of my learning and practice in this module, I have learnt to:
+
+-   Summarise high-level analytic strategies and tools.
+-   Explain the benefits of using pivot tables.
+-   Generate and interpret pivot tables.
+-   Use VLOOKUPs and HLOOKUPs.
+-   Implement conditional formatting based on logical rules.
+-   Create, modify, and stylise basic charts from start to finish in Microsoft Excel.
+-   Create scatter plots and trend lines.
+-   Create charts that contain filtered data.
+-   Create regressions and calculate moving averages in Excel.
